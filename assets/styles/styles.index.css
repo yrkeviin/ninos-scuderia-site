@@ -120,3 +120,8 @@ header img {
 header img:hover {
     box-shadow: 0 0 20px var(--main-color), 0 0 40px var(--main-color), 0 0 60px var(--main-color); /* Adiciona uma sombra */
 }
+
+.slogan {
+    font-size: 2rem;
+    color: var(--main-color);
+}
