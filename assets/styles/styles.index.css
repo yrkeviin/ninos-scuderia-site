@@ -84,3 +84,8 @@ section {
     justify-content: center;
     gap: 16rem;
 }
+
+span {
+    font-family: "Rowdies", sans-serif;
+    color: var(--main-color);
+}
