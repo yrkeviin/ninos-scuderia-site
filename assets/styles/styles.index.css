@@ -52,3 +52,13 @@ section {
     cursor: pointer;
     transition: .3s ease;
 }
+
+.navbar a {
+    font-size: 1.2rem;
+    color: var(--text-color);
+    margin: 4rem;
+    font-weight: 500;
+    transition: .3 ease;
+    border-bottom: 3px solid transparent;
+    border-radius: 3px;
+}
