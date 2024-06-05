@@ -125,3 +125,7 @@ header img:hover {
     font-size: 2rem;
     color: var(--main-color);
 }
+
+.texto-resumo {
+    font-size: 1.5rem;
+}
