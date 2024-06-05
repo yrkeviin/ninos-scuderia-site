@@ -129,3 +129,7 @@ header img:hover {
 .texto-resumo {
     font-size: 1.5rem;
 }
+
+#inicio {
+    background-color: #353535;
+}
