@@ -152,3 +152,41 @@ header img:hover {
 .carrinho img {
     width: 40vw;
 }
+
+.equipe {
+    display: flex;
+    justify-content: space-between;
+}
+
+.membro-equipe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    justify-content: space-between;
+}
+
+.membro-equipe img {
+    filter: grayscale(100%);
+    transition: all 0.3s ease-in-out;
+    width: 150px;
+}
+
+.membro-equipe img:hover {
+    filter: grayscale(0);
+    border: 0;
+    transform: translateY(-10px);
+    width: 190px;
+}
+
+.membro-equipe span {
+    margin-top: .7rem;
+    color: #9b9b9b;
+}
+
+#team img {
+    border-radius: 50%;
+    width: 180px;
+    margin: 0 20px;
+}
