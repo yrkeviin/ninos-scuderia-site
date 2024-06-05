@@ -65,7 +65,11 @@ section {
 
 .navbar a:hover,
 .navbar a.active {
-    color: var(--main-color); /* Define a cor do texto */
-    border-bottom: 3px solid var(--main-color); /* Adiciona uma borda na parte inferior */
-    border-radius: 3px; /* Adiciona um raio nas bordas */
+    color: var(--main-color); 
+    border-bottom: 3px solid var(--main-color);
+    border-radius: 3px;
+}
+
+.logo:hover {
+    transform: scale(1.03);
 }
