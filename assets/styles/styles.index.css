@@ -133,3 +133,22 @@ header img:hover {
 #inicio {
     background-color: #353535;
 }
+
+.carrinho {
+    display: flex;
+    gap: 1rem;
+}
+
+.carrinho h3 {
+    color: var(--main-color);
+    font-size: 2rem;
+}
+
+.carrinho p {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.carrinho img {
+    width: 40vw;
+}
