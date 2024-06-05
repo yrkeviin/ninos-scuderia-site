@@ -89,3 +89,16 @@ span {
     font-family: "Rowdies", sans-serif;
     color: var(--main-color);
 }
+
+.logo span {
+    color: var(--main-color); /* Define a cor do texto */
+}
+
+.home-img img {
+    top: 3rem;
+    width: 20vw;
+    border-radius: 50%;
+    box-shadow: 0 0 20px var(--main-color);
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+}
