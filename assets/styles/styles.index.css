@@ -62,3 +62,10 @@ section {
     border-bottom: 3px solid transparent;
     border-radius: 3px;
 }
+
+.navbar a:hover,
+.navbar a.active {
+    color: var(--main-color); /* Define a cor do texto */
+    border-bottom: 3px solid var(--main-color); /* Adiciona uma borda na parte inferior */
+    border-radius: 3px; /* Adiciona um raio nas bordas */
+}
