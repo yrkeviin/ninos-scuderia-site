@@ -102,3 +102,7 @@ span {
     cursor: pointer;
     transition: 0.4s ease-in-out;
 }
+
+.home-img img:hover {
+    box-shadow: 0 0 20px var(--main-color);
+}
