@@ -77,3 +77,10 @@ section {
 .logo span {
     text-shadow: 0 0 5px var(--main-color);
 }
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16rem;
+}
