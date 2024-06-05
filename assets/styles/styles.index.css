@@ -43,3 +43,12 @@ section {
     align-items: center;
     z-index: 5;
 }
+
+.logo {
+    font-family: "Rowdies", sans-serif;
+    font-size: 2rem;
+    color: var(--text-color);
+    font-weight: 800;
+    cursor: pointer;
+    transition: .3s ease;
+}
