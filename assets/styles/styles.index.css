@@ -13,3 +13,9 @@
     font-family: "Poppins", sans-serif;
 }
 
+:root {
+    --bg-color: #080808;
+    --secondary-bg-color: #121212;
+    --text-color: #ffffff;
+    --main-color: #d72016;
+}
